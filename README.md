@@ -1,6 +1,12 @@
 # CHDL
 Course Hero File Downloader. Free.
 
+Update: this seems to have gotten more popular than expected. 
+
+This was only a small project to learn more about making chrome extensions but I am getting too many requests over many social media platforms.
+
+I have closed the issues on this repository as I am not providing support for this plugin - it was never intended for production.
+
 ![](https://puu.sh/mnFsH/d2b9af6b23.png)
 
 This script was hastily concocted. CHDL is a Chrome Extension that attempts to download full (unblurred) documents from Course Hero.
