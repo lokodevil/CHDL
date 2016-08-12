@@ -17,7 +17,7 @@ The extension must be installed in Chrome's developer mode.
 ## Usage
 You must be on a document page on C.H. to use the extension from either the toolbar or the right-click context menu, and you must be signed in on the CourseHero website.
 
-The extension works due to a weird permission error on CourseHero's end that fails to check what files users should be able to access.
+The extension works due to a weird permission error on C.H.'s end that fails to check what files users should be able to access.
 
 Singular file downloads seem to have a very high success rate when the entire document is shown (even if most pages are blurred).
 
